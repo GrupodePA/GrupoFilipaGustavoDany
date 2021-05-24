@@ -1,2 +1,0 @@
-# GrupoFilipaGustavoDany
-imput 'bruh'
